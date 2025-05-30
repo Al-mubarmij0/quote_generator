@@ -32,4 +32,3 @@ Implement animations or transitions to enhance the user experience when generati
 Store generated quotes in local storage or a database to allow users to review past quotes.
 Allow users to share quotes on social media platforms directly from the webpage.
 License
-This project is open-source and free to use. Feel free to modify and distribute it as you wish.
